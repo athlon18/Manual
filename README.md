@@ -1,4 +1,4 @@
-# Manual
+# Manual(吃指南)
 A plugin for RebornBuddy that automatically keeps up Manual buff of select Manual.
 
 ## Install
